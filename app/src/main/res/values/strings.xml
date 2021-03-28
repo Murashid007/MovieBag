@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Bag</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_review">Review</string>
+    <string name="title_activity_cast">Cast</string>
+
+    <string name="vote">Vote :</string>
+    <string name="language">Language :</string>
+    <string name="overView">Overview</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="cast">Cast</string>
+    <string name="review">Review</string>
+    <string name="similar_movie">Similar Movies</string>
+    <string name="release_date">Release Date :</string>
+    <string name="popularity">Popularity :</string>
+    <string name="release_status">Release Status :</string>
+</resources>
